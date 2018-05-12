@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/446
     wikipedia: http://en.wikipedia.org/wiki/John_Dewey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28393#China-Japan-and-the-U.S.A.--13-Present-Day-Conditions-in-the-Far-East-and-Their-Bearing-on-th_
 gutenberg_issued: '2009-03-23'
 gutenberg_type: Text
 identifiers:

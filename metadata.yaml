@@ -1,0 +1,33 @@
+_repo: China-Japan-and-the-U.S.A.--13-Present-Day-Conditions-in-the-Far-East-and-Their-Bearing-on-th__28393
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: http://en.wikipedia.org/wiki/John_Dewey
+description: ''
+gutenberg_issued: '2009-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28393'
+  lccn: '21020145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Foreign relations -- China'
+- !lcc 'DS'
+- !lcsh 'Japan -- Foreign relations -- China'
+- !lcsh 'Eastern question (Far East)'
+- !lcsh 'China -- Foreign relations -- United States'
+- !lcsh 'China -- Foreign relations -- Japan'
+title: "China, Japan and the U.S.A.\r\nPresent-Day Conditions in the Far East and\
+  \ Their Bearing on the Washington Conference"
+url: http://www.gutenberg.org/ebooks/28393
